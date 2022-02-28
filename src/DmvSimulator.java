@@ -1,7 +1,7 @@
 public class DmvSimulator
 {
 	private static int num;
-	private static final int LINE_NUM = 100;
+	private static final int LINE_NUM = 200;
 	public static void main(String[] args)
 	{
 		System.out.println("Welcome to the DMV.");
